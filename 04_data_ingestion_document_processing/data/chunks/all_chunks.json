@@ -1,0 +1,3420 @@
+[
+  {
+    "content": "Agriculture in Nigeria: Crops, Livestock, and Disease Management\n\n\n\nAgriculture in Nigeria\nLast updated: August 2026\n\n\nIntroduction",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_001"
+    }
+  },
+  {
+    "content": "Introduction\n\n            Agriculture is one of the most important sectors of the Nigerian economy. It contributes significantly to the country's GDP and employs more than a third of the labour force. In rural areas, agriculture is the primary source of income and food security.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_002"
+    }
+  },
+  {
+    "content": "Major Crops\n\nCassava – a major staple crop.\nYam – widely grown in the middle belt.\nMaize – important for food and livestock feed.\nRice – local production is growing.\nSorghum and Millet – common in the north.\nBeans – key source of protein.\n\n\n\nCommon Crop Diseases and Their Control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_003"
+    }
+  },
+  {
+    "content": "Common Crop Diseases and Their Control\n\n1. Cassava Mosaic Disease\nAffected Crop: Cassava\nSymptoms: Yellowing and mottling of leaves, stunted growth, reduced yield.\nControl/Cure: Use disease-free cuttings, plant resistant varieties, and remove infected plants early.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_004"
+    }
+  },
+  {
+    "content": "2. Maize Smut\nAffected Crop: Maize\nSymptoms: Large grey or black galls on ears, stalks, and leaves.\nControl/Cure: Remove and destroy infected plants, rotate crops, and plant resistant hybrids.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_005"
+    }
+  },
+  {
+    "content": "3. Rice Blast\nAffected Crop: Rice\nSymptoms: Spindle-shaped lesions on leaves, panicle damage, and reduced grain quality.\nControl/Cure: Use resistant varieties, avoid excessive nitrogen fertiliser, and apply recommended fungicides.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_006"
+    }
+  },
+  {
+    "content": "4. Tomato Leaf Curl Virus\nAffected Crop: Tomatoes and peppers\nSymptoms: Curling and yellowing of leaves, stunted plants, poor fruit set.\nControl/Cure: Control whitefly vectors, remove infected plants, and use resistant varieties.\n\n\n\nCommon Livestock Diseases and Their Control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_007"
+    }
+  },
+  {
+    "content": "Common Livestock Diseases and Their Control\n\n1. Newcastle Disease\nAffected Animal: Poultry (chickens, turkeys)\nSymptoms: Respiratory distress, greenish diarrhoea, nervous signs, high mortality.\nControl/Cure: Vaccinate birds regularly, maintain hygiene, and quarantine new birds.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_008"
+    }
+  },
+  {
+    "content": "2. Foot and Mouth Disease\nAffected Animal: Cattle, sheep, goats, pigs\nSymptoms: Blisters in mouth and hooves, fever, lameness, excessive salivation.\nControl/Cure: Vaccination, movement control, and isolation of infected animals.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_009"
+    }
+  },
+  {
+    "content": "3. African Swine Fever\nAffected Animal: Pigs\nSymptoms: High fever, loss of appetite, skin haemorrhages, sudden death.\nControl/Cure: No vaccine; control by strict biosecurity, culling infected herds, and disinfection.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_010"
+    }
+  },
+  {
+    "content": "4. Mastitis\nAffected Animal: Dairy cattle and goats\nSymptoms: Swollen udder, abnormal milk, fever, reduced milk yield.\nControl/Cure: Good milking hygiene, treat with antibiotics under veterinary guidance, and cull chronic cases.\n\n\n\nGeneral Prevention Tips",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_011"
+    }
+  },
+  {
+    "content": "Use disease-resistant seeds and breeds.\nPractise crop rotation and clean farming.\nEnsure proper nutrition and clean water for animals.\nMaintain hygiene in farms and pens.\nQuarantine new plants or animals before introducing them.\nConsult extension officers or veterinarians early.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_012"
+    }
+  },
+  {
+    "content": "Source: Sample educational content for RAG course Module 4.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.html",
+      "title": "Agriculture in Nigeria: Crops, Livestock, and Disease Management",
+      "file_name": "agriculture.html",
+      "doc_type": "html",
+      "language": "English",
+      "chunk_id": "agriculture.html_013"
+    }
+  },
+  {
+    "content": "Agriculture in Nigeria: An Overview\n\nAgriculture is one of the most important sectors of the Nigerian economy. It employs more than a third of the labour force and contributes significantly to the country's GDP. In rural areas, agriculture is the main source of income and food security.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_014"
+    }
+  },
+  {
+    "content": "Major Crops Grown in Nigeria\n\nNigeria grows a wide variety of crops due to its diverse climate and ecology.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_015"
+    }
+  },
+  {
+    "content": "- Cassava: Nigeria is one of the largest producers of cassava in the world. It is processed into garri, fufu, and starch.\n- Yam: Yam is a major staple food, especially in the middle belt and southern regions.\n- Maize: Maize is grown widely and used for both human food and animal feed.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_016"
+    }
+  },
+  {
+    "content": "- Rice: Local rice production has increased in recent years to meet national demand.\n- Sorghum and Millet: These grains are common in the northern states where rainfall is lower.\n- Beans: Beans are an important source of protein for many households.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_017"
+    }
+  },
+  {
+    "content": "Livestock and Fisheries\n\nLivestock farming is common across Nigeria. Cattle, goats, sheep, and poultry are raised in many communities. In the north, cattle rearing is a major activity. In the south, poultry and fish farming are growing rapidly.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_018"
+    }
+  },
+  {
+    "content": "Fisheries and aquaculture provide employment and protein for many families. Catfish and tilapia are commonly farmed in ponds and tanks.\n\nCommon Crop Diseases and Control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_019"
+    }
+  },
+  {
+    "content": "Common Crop Diseases and Control\n\n1. Cassava Mosaic Disease\n   Affected crop: Cassava\n   Symptoms: Yellowing and mottling of leaves, stunted growth, reduced yield.\n   Control: Use disease-free cuttings, plant resistant varieties, and remove infected plants.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_020"
+    }
+  },
+  {
+    "content": "2. Maize Smut\n   Affected crop: Maize\n   Symptoms: Grey or black galls on ears, stalks, and leaves.\n   Control: Remove infected plants, rotate crops, and plant resistant hybrids.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_021"
+    }
+  },
+  {
+    "content": "3. Rice Blast\n   Affected crop: Rice\n   Symptoms: Spindle-shaped lesions on leaves and panicle damage.\n   Control: Use resistant varieties and apply recommended fungicides.\n\nCommon Livestock Diseases and Control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_022"
+    }
+  },
+  {
+    "content": "Common Livestock Diseases and Control\n\n1. Newcastle Disease\n   Affected animal: Poultry\n   Symptoms: Respiratory distress, greenish diarrhoea, nervous signs.\n   Control: Vaccinate birds regularly and maintain hygiene.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_023"
+    }
+  },
+  {
+    "content": "2. Foot and Mouth Disease\n   Affected animal: Cattle, sheep, goats, pigs\n   Symptoms: Blisters in mouth and hooves, fever, lameness.\n   Control: Vaccination and movement control.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_024"
+    }
+  },
+  {
+    "content": "3. Mastitis\n   Affected animal: Dairy cattle and goats\n   Symptoms: Swollen udder, abnormal milk, fever.\n   Control: Good milking hygiene and antibiotic treatment under veterinary guidance.\n\nChallenges Facing Agriculture in Nigeria",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_025"
+    }
+  },
+  {
+    "content": "- Poor rural infrastructure such as roads and storage facilities.\n- Limited access to credit and modern equipment.\n- Climate change causing drought and unpredictable rainfall.\n- Post-harvest losses due to inadequate processing and storage.\n- Land tenure issues and urbanisation reducing farmland.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_026"
+    }
+  },
+  {
+    "content": "Conclusion\n\nAgriculture remains a key driver of economic growth and food security in Nigeria. With sustained investment, innovation, and support for smallholder farmers, the sector has the potential to reduce poverty and create millions of jobs.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\agriculture.txt",
+      "file_name": "agriculture.txt",
+      "doc_type": "txt",
+      "language": "English",
+      "chunk_id": "agriculture.txt_027"
+    }
+  },
+  {
+    "content": "CROP DISEASES\nPresented by\nNdubuisi C. Adikuru (PhD Environmental Crop Physiology)\nAt the Workshop on Digital Solutions for Sustainable Agriculture \nand Climate Change\nDate: 24 – 25 September, 2024\nVenue : Centre for Entrepreneurial Studies, University of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 0,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_028"
+    }
+  },
+  {
+    "content": "Agriculture and Environmental Studies (UAES) Umuagwo, Imo \nstate.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 0,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_029"
+    }
+  },
+  {
+    "content": "Introduction\nO Crop diseases are those conditions \nwhen pathogens, lack or inadequacy \nof nutrient supply and various other \nfactors of the environment cause \ndisruptions or hinderances to the \nnormal and natural processes of plant \ngrowth, development and \nreproduction (Udo and Ndon, 2016).",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 1,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_030"
+    }
+  },
+  {
+    "content": "• The major factors responsible for crop \ndiseases are fungi, bacteria, viruses and \nnematodes. \n• Others are nutrient deficiencies and air \npollutants. \n• The severity of crop diseases can range \nfrom mild leaf or fruit damage to death.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 2,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_031"
+    }
+  },
+  {
+    "content": "Disease Identification\nO Modifications brought about by the \ndisease are called symptoms. \nO Structural modifications provide guide \nto the identification of the disease \ntype of the causative organism.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 3,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_032"
+    }
+  },
+  {
+    "content": "Hypertrophy\nO This refers to the enlargement of organs as \na result of accelerated multiplication of cells \nthat are under attack. \nO This causes tumours as is the case in root \nknots of tomato caused by Scuttellema\nbrady or Meloidogyne incognita (root knot \nnematode).",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 4,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_033"
+    }
+  },
+  {
+    "content": "Necrosis\nO This symptom appears as dead patches or \nspots all over the leaves of affected plants. It \nleads to distortion and death of organs, \nespecially the leaves.\nO It is caused by the attacks of fungi, bacteria \nand viruses.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 5,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_034"
+    }
+  },
+  {
+    "content": "Chlorosis\nO This is a discolouration of tissues arising \nfrom nutrient deficiency or pathogenic \nattacks which destroys the chloroplasts and \nreduce chlorophyll quality.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 6,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_035"
+    }
+  },
+  {
+    "content": "Deformation of organs\nO A lot of pathogens often cause permanent \ndamages to the organs that they attack. \nO Examples are the Cassava mosaic Virus \n(CMV) on cassava leaves or zinc deficiency \non maize leaves and shoots.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 7,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_036"
+    }
+  },
+  {
+    "content": "Disease Control\nO Physical methods\n- Exclusion: This involves preventing the \ndisease from getting into a new farm or \ncrop area. This includes plant \nquarantine and the use of disease-free \nplanting materials.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 8,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_037"
+    }
+  },
+  {
+    "content": "- Avoidance: In this case crops are grown in a \nmanner that avoids exposing them to the \ndisease.\nFor instance, early sowing, selection of farm \nsite free from certain diseases, use of resistant\nvarieties, suitable crop rotation etc.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 9,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_038"
+    }
+  },
+  {
+    "content": "Other physical methods\nO An example is removing and burning \nor burying disease contaminated \nplant residues.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 10,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_039"
+    }
+  },
+  {
+    "content": "Biological methods\nO This involves the use of living \norganisms (beneficial organisms) \nto attack the disease causing \norganism",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 11,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_040"
+    }
+  },
+  {
+    "content": "Chemical methods\nO This involves the use of \nchemicals of different \nformulation to kill off the \ncausative organism",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 12,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_041"
+    }
+  },
+  {
+    "content": "Maize\nO Disease: Leaf blight\nO Causative organism: Fungi \n(Helminthosporium spp)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 13,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_042"
+    }
+  },
+  {
+    "content": "Management\nO : Crop rotation with a non host crop like \nlegumes to reduce the disease severity. \nO Destruction of crop debris. \nO Ploughing under of straw. \nO Neem seed extract.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 15,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_043"
+    }
+  },
+  {
+    "content": "Maize\nO Disease: Downy mildew\nO Causative organism: Fungi \n(Peronosclerospora spp)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 16,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_044"
+    }
+  },
+  {
+    "content": "Management\nO use of resistant cultivars. \nO Use disease free healthy seeds.\nO Use of Systemic Fungicides \nMetalaxyl and Fosetyl-Al",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 18,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_045"
+    }
+  },
+  {
+    "content": "Cassava\nO Disease: Cassava bacterial blight\nO Causative organism: Xanthomonas\nmanihotis",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 19,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_046"
+    }
+  },
+  {
+    "content": "Management: \n Use of resistant varieties. \n Practice crop rotation. Cut out \ninfected parts if only few.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 21,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_047"
+    }
+  },
+  {
+    "content": "Cassava\nO Disease: Cassava brown leaf spot\nO Causative organism: Cercospora\nhenningsii",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 22,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_048"
+    }
+  },
+  {
+    "content": "Management:\n Use of resistant varieties. \n During the dry season remove heavily \ndiseased leaves to prevent the fungus \nspreading quickly when the rains \nstart.\n After harvest: Collect and burn \ndebris. Use fungicides where \nnecessary",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 24,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_049"
+    }
+  },
+  {
+    "content": "Cassava\nO Disease: Cassava Mosaic Virus (CMV) \ndisease \nO Causative organism: Trasmitted by \nwhite fly (Bemisia tabaci)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 25,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_050"
+    }
+  },
+  {
+    "content": "Management\nO Use of disease free planting materials.\nO The uprooted plants should be carried \naway from the field and exposed to the \nsunlight for drying and then burned to kill \nthe viruses.\nO Do not plant cassava close to infected \nfields as the insect vectors will transport",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 27,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_051"
+    }
+  },
+  {
+    "content": "fields as the insect vectors will transport \nthe disease to healthy plants.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 27,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_052"
+    }
+  },
+  {
+    "content": "OThank You for \nListening…",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\crop_disease.pdf",
+      "page": 28,
+      "file_name": "crop_disease.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "crop_disease.pdf_053"
+    }
+  },
+  {
+    "content": "name: Milk\nprice: 1500\ncategory: dairy\nstock: 120\nrating: 4.5\nreview: 250\ncomment: Very fresh and tasty",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 0,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_054"
+    }
+  },
+  {
+    "content": "name: Bread\nprice: 800\ncategory: bakery\nstock: 200\nrating: 4.2\nreview: 180\ncomment: Soft and good for breakfast",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 1,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_055"
+    }
+  },
+  {
+    "content": "name: Laptop\nprice: 450000\ncategory: electronics\nstock: 35\nrating: 4.8\nreview: 95\ncomment: Fast and reliable for work",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 2,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_056"
+    }
+  },
+  {
+    "content": "name: Television\nprice: 250000\ncategory: electronics\nstock: 50\nrating: 4.6\nreview: 75\ncomment: Great picture quality",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 3,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_057"
+    }
+  },
+  {
+    "content": "name: Rice\nprice: 20000\ncategory: groceries\nstock: 300\nrating: 4.7\nreview: 320\ncomment: Clean and well packaged",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 4,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_058"
+    }
+  },
+  {
+    "content": "name: Beans\nprice: 15000\ncategory: groceries\nstock: 250\nrating: 4.4\nreview: 210\ncomment: Good quality beans",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 5,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_059"
+    }
+  },
+  {
+    "content": "name: Yam\nprice: 5000\ncategory: agriculture\nstock: 500\nrating: 4.3\nreview: 410\ncomment: Fresh and large tubers",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 6,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_060"
+    }
+  },
+  {
+    "content": "name: Cassava\nprice: 3000\ncategory: agriculture\nstock: 600\nrating: 4.1\nreview: 480\ncomment: Nice for fufu and garri",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 7,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_061"
+    }
+  },
+  {
+    "content": "name: Phone\nprice: 120000\ncategory: electronics\nstock: 100\nrating: 4.5\nreview: 150\ncomment: Battery lasts long",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 8,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_062"
+    }
+  },
+  {
+    "content": "name: Shirt\nprice: 7000\ncategory: clothing\nstock: 150\nrating: 4.0\nreview: 90\ncomment: Fits well and comfortable",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 9,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_063"
+    }
+  },
+  {
+    "content": "name: Trouser\nprice: 10000\ncategory: clothing\nstock: 120\nrating: 4.2\nreview: 85\ncomment: Good material and stitching",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 10,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_064"
+    }
+  },
+  {
+    "content": "name: Shoes\nprice: 25000\ncategory: clothing\nstock: 80\nrating: 4.6\nreview: 110\ncomment: Very durable and stylish",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 11,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_065"
+    }
+  },
+  {
+    "content": "name: Bag\nprice: 15000\ncategory: accessories\nstock: 90\nrating: 4.3\nreview: 70\ncomment: Spacious and strong",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 12,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_066"
+    }
+  },
+  {
+    "content": "name: Watch\nprice: 35000\ncategory: accessories\nstock: 60\nrating: 4.7\nreview: 45\ncomment: Looks expensive and classy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 13,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_067"
+    }
+  },
+  {
+    "content": "name: Sugar\nprice: 4000\ncategory: groceries\nstock: 200\nrating: 4.5\nreview: 260\ncomment: Fine crystals and sweet",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 14,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_068"
+    }
+  },
+  {
+    "content": "name: Salt\nprice: 1500\ncategory: groceries\nstock: 400\nrating: 4.6\nreview: 300\ncomment: Clean and well iodated",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 15,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_069"
+    }
+  },
+  {
+    "content": "name: Groundnut\nprice: 2500\ncategory: groceries\nstock: 350\nrating: 4.4\nreview: 190\ncomment: Crunchy and fresh",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 16,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_070"
+    }
+  },
+  {
+    "content": "name: Palm oil\nprice: 12000\ncategory: groceries\nstock: 180\nrating: 4.5\nreview: 160\ncomment: Rich red colour and thick",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 17,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_071"
+    }
+  },
+  {
+    "content": "name: Vegetable oil\nprice: 15000\ncategory: groceries\nstock: 160\nrating: 4.6\nreview: 140\ncomment: Light and healthy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 18,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_072"
+    }
+  },
+  {
+    "content": "name: Fish\nprice: 18000\ncategory: protein\nstock: 220\nrating: 4.5\nreview: 205\ncomment: Fresh and well frozen",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 19,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_073"
+    }
+  },
+  {
+    "content": "name: Chicken\nprice: 25000\ncategory: protein\nstock: 140\nrating: 4.7\nreview: 130\ncomment: Tender and juicy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 20,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_074"
+    }
+  },
+  {
+    "content": "name: Beef\nprice: 22000\ncategory: protein\nstock: 130\nrating: 4.6\nreview: 120\ncomment: Good cut and fresh",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 21,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_075"
+    }
+  },
+  {
+    "content": "name: Eggs\nprice: 3000\ncategory: protein\nstock: 500\nrating: 4.8\nreview: 450\ncomment: Very fresh and large",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 22,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_076"
+    }
+  },
+  {
+    "content": "name: Mango\nprice: 2000\ncategory: fruits\nstock: 300\nrating: 4.4\nreview: 220\ncomment: Sweet and juicy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 23,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_077"
+    }
+  },
+  {
+    "content": "name: Orange\nprice: 1500\ncategory: fruits\nstock: 400\nrating: 4.5\nreview: 310\ncomment: Sweet and easy to peel",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 24,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_078"
+    }
+  },
+  {
+    "content": "name: Pineapple\nprice: 2500\ncategory: fruits\nstock: 200\nrating: 4.3\nreview: 180\ncomment: Ripe and sweet",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 25,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_079"
+    }
+  },
+  {
+    "content": "name: Banana\nprice: 1000\ncategory: fruits\nstock: 450\nrating: 4.6\nreview: 350\ncomment: Fresh and healthy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\ecommerce.csv",
+      "row": 26,
+      "file_name": "ecommerce.csv",
+      "doc_type": "csv",
+      "language": "English",
+      "chunk_id": "ecommerce.csv_080"
+    }
+  },
+  {
+    "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 1,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_081"
+    }
+  },
+  {
+    "content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 2,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_082"
+    }
+  },
+  {
+    "content": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 3,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_083"
+    }
+  },
+  {
+    "content": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 4,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_084"
+    }
+  },
+  {
+    "content": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 5,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_085"
+    }
+  },
+  {
+    "content": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 6,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_086"
+    }
+  },
+  {
+    "content": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 7,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_087"
+    }
+  },
+  {
+    "content": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 8,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_088"
+    }
+  },
+  {
+    "content": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 9,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_089"
+    }
+  },
+  {
+    "content": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 10,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_090"
+    }
+  },
+  {
+    "content": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 11,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_091"
+    }
+  },
+  {
+    "content": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 12,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_092"
+    }
+  },
+  {
+    "content": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 13,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_093"
+    }
+  },
+  {
+    "content": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 14,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_094"
+    }
+  },
+  {
+    "content": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 15,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_095"
+    }
+  },
+  {
+    "content": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 16,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_096"
+    }
+  },
+  {
+    "content": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 17,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_097"
+    }
+  },
+  {
+    "content": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 18,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_098"
+    }
+  },
+  {
+    "content": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 19,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_099"
+    }
+  },
+  {
+    "content": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 20,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_100"
+    }
+  },
+  {
+    "content": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 21,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_101"
+    }
+  },
+  {
+    "content": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 22,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_102"
+    }
+  },
+  {
+    "content": "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 23,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_103"
+    }
+  },
+  {
+    "content": "enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 24,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_104"
+    }
+  },
+  {
+    "content": "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 25,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_105"
+    }
+  },
+  {
+    "content": "similique esse doloribus nihil accusamus\nomnis dolorem fuga consequuntur reprehenderit fugit recusandae temporibus\nperspiciatis cum ut laudantium\nomnis aut molestiae vel vero",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 26,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_106"
+    }
+  },
+  {
+    "content": "eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 27,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_107"
+    }
+  },
+  {
+    "content": "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 28,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_108"
+    }
+  },
+  {
+    "content": "odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 29,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_109"
+    }
+  },
+  {
+    "content": "alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 30,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_110"
+    }
+  },
+  {
+    "content": "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 31,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_111"
+    }
+  },
+  {
+    "content": "deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 32,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_112"
+    }
+  },
+  {
+    "content": "rerum ut et numquam laborum odit est sit\nid qui sint in\nquasi tenetur tempore aperiam et quaerat qui in\nrerum officiis sequi cumque quod",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 33,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_113"
+    }
+  },
+  {
+    "content": "ea velit perferendis earum ut voluptatem voluptate itaque iusto\ntotam pariatur in\nnemo voluptatem voluptatem autem magni tempora minima in\nest distinctio qui assumenda accusamus dignissimos officia nesciunt nobis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 34,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_114"
+    }
+  },
+  {
+    "content": "nisi error delectus possimus ut eligendi vitae\nplaceat eos harum cupiditate facilis reprehenderit voluptatem beatae\nmodi ducimus quo illum voluptas eligendi\net nobis quia fugit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 35,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_115"
+    }
+  },
+  {
+    "content": "ad mollitia et omnis minus architecto odit\nvoluptas doloremque maxime aut non ipsa qui alias veniam\nblanditiis culpa aut quia nihil cumque facere et occaecati\nqui aspernatur quia eaque ut aperiam inventore",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 36,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_116"
+    }
+  },
+  {
+    "content": "debitis et eaque non officia sed nesciunt pariatur vel\nvoluptatem iste vero et ea\nnumquam aut expedita ipsum nulla in\nvoluptates omnis consequatur aut enim officiis in quam qui",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 37,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_117"
+    }
+  },
+  {
+    "content": "animi esse sit aut sit nesciunt assumenda eum voluptas\nquia voluptatibus provident quia necessitatibus ea\nrerum repudiandae quia voluptatem delectus fugit aut id quia\nratione optio eos iusto veniam iure",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 38,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_118"
+    }
+  },
+  {
+    "content": "corporis rerum ducimus vel eum accusantium\nmaxime aspernatur a porro possimus iste omnis\nest in deleniti asperiores fuga aut\nvoluptas sapiente vel dolore minus voluptatem incidunt ex",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 39,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_119"
+    }
+  },
+  {
+    "content": "ut voluptatum aliquid illo tenetur nemo sequi quo facilis\nipsum rem optio mollitia quas\nvoluptatem eum voluptas qui\nunde omnis voluptatem iure quasi maxime voluptas nam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 40,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_120"
+    }
+  },
+  {
+    "content": "molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 41,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_121"
+    }
+  },
+  {
+    "content": "odio fugit voluptatum ducimus earum autem est incidunt voluptatem\nodit reiciendis aliquam sunt sequi nulla dolorem\nnon facere repellendus voluptates quia\nratione harum vitae ut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 42,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_122"
+    }
+  },
+  {
+    "content": "similique fugit est\nillum et dolorum harum et voluptate eaque quidem\nexercitationem quos nam commodi possimus cum odio nihil nulla\ndolorum exercitationem magnam ex et a et distinctio debitis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 43,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_123"
+    }
+  },
+  {
+    "content": "temporibus est consectetur dolore\net libero debitis vel velit laboriosam quia\nipsum quibusdam qui itaque fuga rem aut\nea et iure quam sed maxime ut distinctio quae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 44,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_124"
+    }
+  },
+  {
+    "content": "est natus reiciendis nihil possimus aut provident\nex et dolor\nrepellat pariatur est\nnobis rerum repellendus dolorem autem",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 45,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_125"
+    }
+  },
+  {
+    "content": "voluptatem quisquam iste\nvoluptatibus natus officiis facilis dolorem\nquis quas ipsam\nvel et voluptatum in aliquid",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 46,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_126"
+    }
+  },
+  {
+    "content": "voluptatem assumenda ut qui ut cupiditate aut impedit veniam\noccaecati nemo illum voluptatem laudantium\nmolestiae beatae rerum ea iure soluta nostrum\neligendi et voluptate",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 47,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_127"
+    }
+  },
+  {
+    "content": "voluptates quo voluptatem facilis iure occaecati\nvel assumenda rerum officia et\nillum perspiciatis ab deleniti\nlaudantium repellat ad ut et autem reprehenderit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 48,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_128"
+    }
+  },
+  {
+    "content": "inventore ab sint\nnatus fugit id nulla sequi architecto nihil quaerat\neos tenetur in in eum veritatis non\nquibusdam officiis aspernatur cumque aut commodi aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 49,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_129"
+    }
+  },
+  {
+    "content": "error suscipit maxime adipisci consequuntur recusandae\nvoluptas eligendi et est et voluptates\nquia distinctio ab amet quaerat molestiae et vitae\nadipisci impedit sequi nesciunt quis consectetur",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 50,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_130"
+    }
+  },
+  {
+    "content": "sunt dolores aut doloribus\ndolore doloribus voluptates tempora et\ndoloremque et quo\ncum asperiores sit consectetur dolorem",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 51,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_131"
+    }
+  },
+  {
+    "content": "iusto est quibusdam fuga quas quaerat molestias\na enim ut sit accusamus enim\ntemporibus iusto accusantium provident architecto\nsoluta esse reprehenderit qui laborum",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 52,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_132"
+    }
+  },
+  {
+    "content": "minima harum praesentium eum rerum illo dolore\nquasi exercitationem rerum nam\nporro quis neque quo\nconsequatur minus dolor quidem veritatis sunt non explicabo similique",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 53,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_133"
+    }
+  },
+  {
+    "content": "totam corporis dignissimos\nvitae dolorem ut occaecati accusamus\nex velit deserunt\net exercitationem vero incidunt corrupti mollitia",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 54,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_134"
+    }
+  },
+  {
+    "content": "debitis excepturi ea perferendis harum libero optio\neos accusamus cum fuga ut sapiente repudiandae\net ut incidunt omnis molestiae\nnihil ut eum odit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 55,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_135"
+    }
+  },
+  {
+    "content": "aut est omnis dolores\nneque rerum quod ea rerum velit pariatur beatae excepturi\net provident voluptas corrupti\ncorporis harum reprehenderit dolores eligendi",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 56,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_136"
+    }
+  },
+  {
+    "content": "at pariatur consequuntur earum quidem\nquo est laudantium soluta voluptatem\nqui ullam et est\net cum voluptas voluptatum repellat est",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 57,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_137"
+    }
+  },
+  {
+    "content": "veniam voluptatum quae adipisci id\net id quia eos ad et dolorem\naliquam quo nisi sunt eos impedit error\nad similique veniam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 58,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_138"
+    }
+  },
+  {
+    "content": "perspiciatis et quam ea autem temporibus non voluptatibus qui\nbeatae a earum officia nesciunt dolores suscipit voluptas et\nanimi doloribus cum rerum quas et magni\net hic ut ut commodi expedita sunt",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 59,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_139"
+    }
+  },
+  {
+    "content": "asperiores sunt ab assumenda cumque modi velit\nqui esse omnis\nvoluptate et fuga perferendis voluptas\nillo ratione amet aut et omnis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 60,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_140"
+    }
+  },
+  {
+    "content": "ab nemo optio odio\ndelectus tenetur corporis similique nobis repellendus rerum omnis facilis\nvero blanditiis debitis in nesciunt doloribus dicta dolores\nmagnam minus velit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 61,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_141"
+    }
+  },
+  {
+    "content": "enim aspernatur illo distinctio quae praesentium\nbeatae alias amet delectus qui voluptate distinctio\nodit sint accusantium autem omnis\nquo molestiae omnis ea eveniet optio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 62,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_142"
+    }
+  },
+  {
+    "content": "enim adipisci aspernatur nemo\nnumquam omnis facere dolorem dolor ex quis temporibus incidunt\nab delectus culpa quo reprehenderit blanditiis asperiores\naccusantium ut quam in voluptatibus voluptas ipsam dicta",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 63,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_143"
+    }
+  },
+  {
+    "content": "id velit blanditiis\neum ea voluptatem\nmolestiae sint occaecati est eos perspiciatis\nincidunt a error provident eaque aut aut qui",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 64,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_144"
+    }
+  },
+  {
+    "content": "voluptatibus ex esse\nsint explicabo est aliquid cumque adipisci fuga repellat labore\nmolestiae corrupti ex saepe at asperiores et perferendis\nnatus id esse incidunt pariatur",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 65,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_145"
+    }
+  },
+  {
+    "content": "officia veritatis tenetur vero qui itaque\nsint non ratione\nsed et ut asperiores iusto eos molestiae nostrum\nveritatis quibusdam et nemo iusto saepe",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 66,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_146"
+    }
+  },
+  {
+    "content": "reprehenderit id nostrum\nvoluptas doloremque pariatur sint et accusantium quia quod aspernatur\net fugiat amet\nnon sapiente et consequatur necessitatibus molestiae",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 67,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_147"
+    }
+  },
+  {
+    "content": "magnam molestiae perferendis quisquam\nqui cum reiciendis\nquaerat animi amet hic inventore\nea quia deleniti quidem saepe porro velit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 68,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_148"
+    }
+  },
+  {
+    "content": "officiis error culpa consequatur modi asperiores et\ndolorum assumenda voluptas et vel qui aut vel rerum\nvoluptatum quisquam perspiciatis quia rerum consequatur totam quas\nsequi commodi repudiandae asperiores et saepe a",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 69,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_149"
+    }
+  },
+  {
+    "content": "sunt repellendus quae\nest asperiores aut deleniti esse accusamus repellendus quia aut\nquia dolorem unde\neum tempora esse dolore",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 70,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_150"
+    }
+  },
+  {
+    "content": "occaecati a doloribus\niste saepe consectetur placeat eum voluptate dolorem et\nqui quo quia voluptas\nrerum ut id enim velit est perferendis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 71,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_151"
+    }
+  },
+  {
+    "content": "quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic voluptas\nneque id sunt ut aut accusamus\nsunt consectetur expedita inventore velit",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 72,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_152"
+    }
+  },
+  {
+    "content": "voluptatem cumque tenetur consequatur expedita ipsum nemo quia explicabo\naut eum minima consequatur\ntempore cumque quae est et\net in consequuntur voluptatem voluptates aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 73,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_153"
+    }
+  },
+  {
+    "content": "odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam et quam\nblanditiis est itaque\nquo et tenetur ratione occaecati molestiae tempora",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 74,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_154"
+    }
+  },
+  {
+    "content": "commodi non non omnis et voluptas sit\nautem aut nobis magnam et sapiente voluptatem\net laborum repellat qui delectus facilis temporibus\nrerum amet et nemo voluptate expedita adipisci error dolorem",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 75,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_155"
+    }
+  },
+  {
+    "content": "ut animi facere\ntotam iusto tempore\nmolestiae eum aut et dolorem aperiam\nquaerat recusandae totam odio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 76,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_156"
+    }
+  },
+  {
+    "content": "modi ut in nulla repudiandae dolorum nostrum eos\naut consequatur omnis\nut incidunt est omnis iste et quam\nvoluptates sapiente aliquam asperiores nobis amet corrupti repudiandae provident",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 77,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_157"
+    }
+  },
+  {
+    "content": "nobis facilis odit tempore cupiditate quia\nassumenda doloribus rerum qui ea\nillum et qui totam\naut veniam repellendus",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 78,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_158"
+    }
+  },
+  {
+    "content": "libero accusantium et et facere incidunt sit dolorem\nnon excepturi qui quia sed laudantium\nquisquam molestiae ducimus est\nofficiis esse molestiae iste et quos",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 79,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_159"
+    }
+  },
+  {
+    "content": "ex quod dolorem ea eum iure qui provident amet\nquia qui facere excepturi et repudiandae\nasperiores molestias provident\nminus incidunt vero fugit rerum sint sunt excepturi provident",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 80,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_160"
+    }
+  },
+  {
+    "content": "facere qui nesciunt est voluptatum voluptatem nisi\nsequi eligendi necessitatibus ea at rerum itaque\nharum non ratione velit laboriosam quis consequuntur\nex officiis minima doloremque voluptas ut aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 81,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_161"
+    }
+  },
+  {
+    "content": "ut libero sit aut totam inventore sunt\nporro sint qui sunt molestiae\nconsequatur cupiditate qui iste ducimus adipisci\ndolor enim assumenda soluta laboriosam amet iste delectus hic",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 82,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_162"
+    }
+  },
+  {
+    "content": "est molestiae facilis quis tempora numquam nihil qui\nvoluptate sapiente consequatur est qui\nnecessitatibus autem aut ipsa aperiam modi dolore numquam\nreprehenderit eius rem quibusdam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 83,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_163"
+    }
+  },
+  {
+    "content": "sint molestiae magni a et quos\neaque et quasi\nut rerum debitis similique veniam\nrecusandae dignissimos dolor incidunt consequatur odio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 84,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_164"
+    }
+  },
+  {
+    "content": "similique sed nisi voluptas iusto omnis\nmollitia et quo\nassumenda suscipit officia magnam sint sed tempora\nenim provident pariatur praesentium atque animi amet ratione",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 85,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_165"
+    }
+  },
+  {
+    "content": "quasi excepturi consequatur iste autem temporibus sed molestiae beatae\net quaerat et esse ut\nvoluptatem occaecati et vel explicabo autem\nasperiores pariatur deserunt optio",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 86,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_166"
+    }
+  },
+  {
+    "content": "eos et molestiae\nnesciunt ut a\ndolores perspiciatis repellendus repellat aliquid\nmagnam sint rem ipsum est",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 87,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_167"
+    }
+  },
+  {
+    "content": "consequatur omnis est praesentium\nducimus non iste\nneque hic deserunt\nvoluptatibus veniam cum et rerum sed",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 88,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_168"
+    }
+  },
+  {
+    "content": "repellat aut aperiam totam temporibus autem et\narchitecto magnam ut\nconsequatur qui cupiditate rerum quia soluta dignissimos nihil iure\ntempore quas est",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 89,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_169"
+    }
+  },
+  {
+    "content": "minus omnis soluta quia\nqui sed adipisci voluptates illum ipsam voluptatem\neligendi officia ut in\neos soluta similique molestias praesentium blanditiis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 90,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_170"
+    }
+  },
+  {
+    "content": "libero voluptate eveniet aperiam sed\nsunt placeat suscipit molestias\nsimilique fugit nam natus\nexpedita consequatur consequatur dolores quia eos et placeat",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 91,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_171"
+    }
+  },
+  {
+    "content": "aut et excepturi dicta laudantium sint rerum nihil\nlaudantium et at\na neque minima officia et similique libero et\ncommodi voluptate qui",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 92,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_172"
+    }
+  },
+  {
+    "content": "dolorem quibusdam ducimus consequuntur dicta aut quo laboriosam\nvoluptatem quis enim recusandae ut sed sunt\nnostrum est odit totam\nsit error sed sunt eveniet provident qui nulla",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 93,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_173"
+    }
+  },
+  {
+    "content": "aspernatur expedita soluta quo ab ut similique\nexpedita dolores amet\nsed temporibus distinctio magnam saepe deleniti\nomnis facilis nam ipsum natus sint similique omnis",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 94,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_174"
+    }
+  },
+  {
+    "content": "earum voluptatem facere provident blanditiis velit laboriosam\npariatur accusamus odio saepe\ncumque dolor qui a dicta ab doloribus consequatur omnis\ncorporis cupiditate eaque assumenda ad nesciunt",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 95,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_175"
+    }
+  },
+  {
+    "content": "in non odio excepturi sint eum\nlabore voluptates vitae quia qui et\ninventore itaque rerum\nveniam non exercitationem delectus aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 96,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_176"
+    }
+  },
+  {
+    "content": "eum non blanditiis soluta porro quibusdam voluptas\nvel voluptatem qui placeat dolores qui velit aut\nvel inventore aut cumque culpa explicabo aliquid at\nperspiciatis est et voluptatem dignissimos dolor itaque sit nam",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 97,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_177"
+    }
+  },
+  {
+    "content": "doloremque ex facilis sit sint culpa\nsoluta assumenda eligendi non ut eius\nsequi ducimus vel quasi\nveritatis est dolores",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 98,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_178"
+    }
+  },
+  {
+    "content": "quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 99,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_179"
+    }
+  },
+  {
+    "content": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut",
+    "metadata": {
+      "source": "C:\\Users\\USER\\rag_course\\04_data_ingestion_document_processing\\data\\ecommerce.json",
+      "seq_num": 100,
+      "file_name": "ecommerce.json",
+      "doc_type": "json",
+      "language": "English",
+      "chunk_id": "ecommerce.json_180"
+    }
+  },
+  {
+    "content": "Major Public Health Problems in Nigeria:  \nA review  \nFaisal Muhammad1, Jamil Hassan Abdulkareem2, ABM Alauddin Chowdhury3 \n1Research Assistant; 3Assistant Professor; Department of Public Health, Daffodil International University, Dhaka; Bangladesh.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_181"
+    }
+  },
+  {
+    "content": "2Lecturer, Department of Environmental Health, New Gate College of Health Technology, Minna Niger State, Nigeria. \nReview \nSouth East Asia Journal Of Public Health \nISSN: 2220-9476 \nISSN: 2313-531X (Online) \nKeywords: Public Health, Maternal-Mortality, Malaria, HIV/AIDS, Nigeria.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_182"
+    }
+  },
+  {
+    "content": "South East Asia Journal of Public Health 2017;7(1):6 -11. © 2017 Muhammad  et al., publisher and licensee Public Health              \nFoundation Bangladesh. This is an Open Access article which permits unrestricted non -commercial use, provided the original work \nis properly cited.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_183"
+    }
+  },
+  {
+    "content": "is properly cited.   \nDOI: http://dx.doi.org/10.3329/seajph.v7i1.34672  \nNigeria is often referred to as the \"Giant of Africa\",     \nowing to its large population and economy. 1 With       \napproximately 182 million inhabitants, Nigeria is \nthe most populous country in Africa and the seventh most",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_184"
+    }
+  },
+  {
+    "content": "populous country in the world. Nigeria has one of the \nlargest populations of youth  in the world. 2 Nigeria is the \nmost populous country in Africa with more than 170     \nmillion people. 3 It is a nation made of more than 250    \nethnic groups, 380 languages, and a diverse range of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_185"
+    }
+  },
+  {
+    "content": "cultural and religious beliefs and practices. Health      \nproblems in Nigeria are challenging, but addressing them \nusing public health principles is necessary to support   \nstability in this important area of the world. \nThe inadequate programs designed to address the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_186"
+    }
+  },
+  {
+    "content": "numerous health problems in Nigeria have led to the little \nimprovement in our health status. Overall life expectancy \nat birth is 54 years; infant mortality rate is 86 per 1000 \nlive birth while maternal mortality ratio is 840 per \n100,000 live births. 4 Besides the continued neglect of the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_187"
+    }
+  },
+  {
+    "content": "importance of addressing public health issues would make \nmatters worse for poor Nigerians most of who are at the \nreceiving end. \n \nNigerians will continue to die unnecessarily from        \npreventable conditions and disease if there are no proper",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_188"
+    }
+  },
+  {
+    "content": "programs designed to address each of these problems. The \nfirst WHO Global Status Report on non -communicable \ndisease listed Nigeria and other developing countries as \nthe worst hit with deaths from non -communicable        \ndiseases.5 These diseases with a rising burden in Nigeria",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_189"
+    }
+  },
+  {
+    "content": "include cardiovascular disease, cancer, diabetes, chronic \nrespiratory diseases, sickle cell disease, asthma, coronary \nheart disease, obesity, stroke, hypertension, road traffic \ninjuries and mental disorders. According to the 2011 \nWorld Health Statistics, malaria mortality rate for Nigeria",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_190"
+    }
+  },
+  {
+    "content": "Introduction Practice Points \n Nigeria is often referred to as the \"Giant of  \nAfrica\", owing to its large population and  \neconomy, with approximately 182 million   \ninhabitants.  \n Communicable and infectious diseases are the \nmajor health problem in Nigeria.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_191"
+    }
+  },
+  {
+    "content": "major health problem in Nigeria.  \n The top causes of death in Nigeria are; malaria, \nlower respiratory infections, HIV/AIDS,      \ndiarrheal diseases, road injuries, protein -energy \nmalnutrition, cancer, meningitis, stroke and \ntuberculosis. \n Malaria remains the foremost killer disease in",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_192"
+    }
+  },
+  {
+    "content": " Malaria remains the foremost killer disease in \nNigeria. It accounts for over 25% of under 5 \nmortality, 30% childhood mortality and 11% \nmaternal mortality. \n Nigeria still has the second highest HIV burden \nin the world, About  3.4 million Nigerians are \nliving with HIV.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_193"
+    }
+  },
+  {
+    "content": "living with HIV.  \nCorrespondence: Faisal Muhammad, Research Assistant, Department of Public Health, Daffodil International \nUniversity, Dhaka; Bangladesh.  Email: fokkanya@yahoo.com. \n6 \nAbstract",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_194"
+    }
+  },
+  {
+    "content": "6 \nAbstract \nThe inadequate programs designed to address the numerous health problems in Nigeria have led to the little            \nimprovement in our health status. Besides the continued neglect of the importance of addressing public health issues",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_195"
+    }
+  },
+  {
+    "content": "would make matters worse for poor Nigerians most of who are at the receiving end. This study adopted a qualitative \napproach, so as to adequately describe the study aims and objectives. The data for this study were collected through",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_196"
+    }
+  },
+  {
+    "content": "scientific database sources, web search engines, direct observation and relevant documents from the Nigerian Ministry \nof Health. The major public health challenges Nigeria faces are infectious diseases, control of vector some diseases,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_197"
+    }
+  },
+  {
+    "content": "maternal mortality, infant mortality, poor sanitation and hygiene, disease surveillance, non -communicable diseases \nand road traffic injuries etcetera.  Nigeria is currently working towards achieving the Millennium Development Goals.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_198"
+    }
+  },
+  {
+    "content": "Despite the collaborative efforts of both Nigerian Government, Donor Agencies and NGOs to provide an efficient and \neffective health care delivery in Nigeria. \nis 146 per 100,000 population. 4 Nigeria has one of the \nhighest Tuberculosis burden in the world (311 per",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_199"
+    }
+  },
+  {
+    "content": "100,000) resulting in the largest burden in Africa.6 The \nproper design of programs to address the public health \nproblems in Nigeria will no doubt go a long way in \nimproving the health status of the people. Though \nthere are programs designed to address some of the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_200"
+    }
+  },
+  {
+    "content": "health issues, there is a need to solve many other \nhealth problems. \n \nThe Nigerian health sector is currently facing          \nsignificant challenges which include, among others an \nuncompleted agenda on the containment of infectious",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 0,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_201"
+    }
+  },
+  {
+    "content": "Muhammad et al.   Public health problems in Nigeria  \ndisease, as well as the rapid and on -ongoing emergence \nof non-communicable diseases. Life expectancy at birth \nin Nigeria stands at 46.8years for men and 48.4years for \nwomen, while there is a dire shortage of health workers",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_202"
+    }
+  },
+  {
+    "content": "as a result of economic and social brain drain. 7 It has \nbeen estimated that there are only 27 physicians per \n100,000 people in Nigeria. 7 These multifaceted        \nchallenges are compounded by arisen economic policies \nand socio -political factors in the country history a",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_203"
+    }
+  },
+  {
+    "content": "limited institutional capacity to provide efficient       \nresponses at a population level. Lack of commitment on \nthe part of the government, especially during military \nrule has worsened the fragile sector. 8 According to the \nUNDP report 2004 both public and private expenditure",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_204"
+    }
+  },
+  {
+    "content": "as a percentage of GDP is 0.8% and 2.6% respectively. 8 \nSuccessive governments have on many occasions set \nout their commitment to this sector, but unfortunately, \nthis rhetoric is not met with tangible and enduring    \nactions, particularly in the area of health system",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_205"
+    }
+  },
+  {
+    "content": "financing. There is a window of opportunity available \nfor initiatives aimed at enhancing the emergence of an \nintegrative approach to public health problems in      \nNigeria, taking into account the social, cultural and    \neconomic determinants of health and also structuring",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_206"
+    }
+  },
+  {
+    "content": "the health system as an efficient channel for health    \nservices delivery. \n \nThe current national health policy have concise         \nstatements on policies of health programs such as HIV/\nAIDS, Malaria, Immunization, Population,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_207"
+    }
+  },
+  {
+    "content": "Reproductive Health, Control of Onchocersiesis,       \nTuberculosis and Leprosy, Blood Transfusion, Elimina-\ntion of Female Genital Mutilation, Adolescent health, \nFood and Nutrition, Child Health, Drug & Food hygiene \nand safety.5 The major thrusts of the health policy relate",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_208"
+    }
+  },
+  {
+    "content": "to issues such as National Health Systems and          \nManagement, National Healthcare Resource, National \nHealth information system, partnerships for Health     \ndevelopment, health research and National Health care \nlaws. This was the outcome of stakeholders submissions",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_209"
+    }
+  },
+  {
+    "content": "on what the national health policy should look like. The \npublic’s perception of the revised national health policy \nis unknown. Though there has been some improvement \nin the health status of Nigerians but the difference is \ninsignificant. For instance, the achievement of the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_210"
+    }
+  },
+  {
+    "content": "millennium development goals (MDGs) to which        \nNigeria, like other countries committed to achieve by \n2015 remains to be seen.5, 9  \n \nThe issue of equity, accessibility, affordability, quality, \neffectiveness and efficiency which are the overall policy",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_211"
+    }
+  },
+  {
+    "content": "objectives of the revised national health policy still   \npersistent. The primary health care on which the        \nNigerian health care system is based has not helped in \neffectively solving the numerous health problems in \nNigeria. Cost effective interventions for priority public",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_212"
+    }
+  },
+  {
+    "content": "health issues such as non -communicable diseases,     \ninjuries, maternal and child health etcetera are hardly \nbeing used. Inter-sectoral cooperation and collaboration \nbetween the different health -related ministries still     \nremains a major issue. Each day there are about 1,000",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_213"
+    }
+  },
+  {
+    "content": "new infections of HIV in Nigeria. 10 The World Health \nStatistics of 2011 also showed that the number of      \nreported cases of malaria increased from 2,834,174 in \n2008 to 4,295,689 in 2009. 4 National health systems \nremain weak while its management is ineffective and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_214"
+    }
+  },
+  {
+    "content": "inefficient. There is no equitable distribution of human \nresources between urban and rural area. Over 70 percent \nof doctors are in urban areas where only 48 percent of \nthe population live, leaving 52 percent of the population \nwho live in the rural area at the mercy of inadequate",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_215"
+    }
+  },
+  {
+    "content": "health personnel.4 \n \nThe National Emergency Response and Preparedness \nTeam was constituted by the Federal Ministry of Health \n(FMOH), Nigeria in recognition of the importance of \ndisease prevention and control. 11 But having the        \ndepartment of public health which is responsible for",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_216"
+    }
+  },
+  {
+    "content": "public health, emergency preparedness and response as \nwell as disease prevention and control under the FMOH \nhas not helped matters besides the mission of public \nhealth as defined by the Institute of Medicine (IOM) \nwhich is “fulfilling society ’s interest in assuring the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_217"
+    }
+  },
+  {
+    "content": "conditions in which people can be healthy” has not been \nachieved by the department of public health under \nFMOH. Every year, Nigeria records an outbreak of     \ndifferent diseases which kill innocent Nigerians in their \nthousands.11 Despite this yearly occurrence of outbreak,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_218"
+    }
+  },
+  {
+    "content": "there has not been an effective and efficient emergency \nresponse and disease prevention system in Nigeria. That \nis why the department of public health under the FMOH \nneeds to be upgraded into an agency with or as part of \nthe FMOH that will focus on emergency planning and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_219"
+    }
+  },
+  {
+    "content": "preparedness; disease prevention and control; and      \npromotion of the health of Nigerian people while the \nFMOH focus on other issues.12 \n \nThe FMOH is a public health agency and service of \ngovernment but its response system is slow. The role of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_220"
+    }
+  },
+  {
+    "content": "the department of public health in disease prevention \nand control under the FMOH has not been felt over the \nyears. Epidemic prone disease such as Cerebral Spinal \nMeningitis, Cholera, Measles, Lassa Fever, Yellow         \nFever as well as other disease of public health",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_221"
+    }
+  },
+  {
+    "content": "importance like diarrhoeal, malaria, plague,                \ntuberculosis, pertussis, onchocerciasis, pneumonia, \nHIV/AIDS, STI, hepatitis B and so on, require a special-\nized agency to mitigate their effect on the population. \nThe establishment of a National Public Health Agency",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_222"
+    }
+  },
+  {
+    "content": "(NPHA) will increase the capacity of FMOH to provide \nprompt and effective public health interventions to     \nNigerians.11, 12  This must be done if the government \nmust reduce the incidence of disease and disability.       \nSurveillance, emergency preparedness, disease",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_223"
+    }
+  },
+  {
+    "content": "prevention and control will be the main responsibility of \nthe NPHA thereby relieving the FMOH of the burden of \nhaving to ensure the health promotion of Nigerians \nalong with other functions of the Ministry. The          \nformulation of NPHA is imperative if the public health",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_224"
+    }
+  },
+  {
+    "content": "problems in Nigeria must be addressed besides the \nagency will be concerned with threats to the health of \nthe Nigerian people.  \n \nCholera outbreak in Nigeria estimated as 3 to 5 million \ncases annually and 100,000 to 150,000 deaths yearly. 13",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_225"
+    }
+  },
+  {
+    "content": "It was the worst outbreak in Nigeria in recent years. The \nnumber of cases was three times higher than that of \n2009 and seven times higher than in 2008. 11 According \nto UNICEF, UN & WHO, women and children account \nfor four out of every five cases. 11 This study was aimed",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_226"
+    }
+  },
+  {
+    "content": "to identify the major public health problems in Nigeria. \n \nMaterials and methods \nThe search for this review was conducted throughout \nthe period of the study (January to July 2016) to track \nnew developments and published reports and articles. \nThis review was carried out according to a method",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_227"
+    }
+  },
+  {
+    "content": "7 \nSouth East Asia Journal of Public Health 2017;7(1):6-11",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 1,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_228"
+    }
+  },
+  {
+    "content": "Muhammad et al.   Public health problems in Nigeria  \n(York Methodology) outlined by Arksey and O ’Malley \n2005 from the University of York, United Kingdom. 14 \nThis study adopted a qualitative approach, so as to     \nadequately describe the study aims and objectives. The",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_229"
+    }
+  },
+  {
+    "content": "study was based on both primary and secondary data. \nThe primary data for this study were collected through \nscientific database sources and web engine searches, i.e. \nPublic Health Foundation of Nigeria (PHFN), United \nNation International Children ’s Emergency Funds",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_230"
+    }
+  },
+  {
+    "content": "Nation International Children ’s Emergency Funds \n(UNICEF), World Health Organization (WHO),        \nMillennium Development Goals (MDGs), United      \nNation Program on HIV/AIDS (UNAIDS), United \nStates Agency for International Development (USAID)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_231"
+    }
+  },
+  {
+    "content": "and relevant articles from African Journals Online.     \nSecondary data were based on direct observation and \nrelevant documents/reports from the Nigerian Ministry \nof Health (FMOH).  \n \nRelated articles, reports, and web page documents those",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_232"
+    }
+  },
+  {
+    "content": "that met inclusion criteria for this study were selected \nand reviewed as well. The inclusion criterion was all the \ndata related to public health issues and challenges in \nNigeria (2004 onwards). Reports not wholly focused on \nthe topic of this study were excluded. All the retrieved",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_233"
+    }
+  },
+  {
+    "content": "publications were reviewed with emphasis on the public \nhealth issues in Nigeria. \n \nResults and Discussion \nNigeria faces many public health problems and         \nchallenges.15 The health issues that Nigeria faces are \ninfectious diseases, sewage disposal, health insurance,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_234"
+    }
+  },
+  {
+    "content": "water supply, air pollution, noise pollution, environmen-\ntal radiation, housing, solid waste disposal, disaster \nmanagement, control of vector some diseases, doctor -\npopulation ratio, population -bed ratio, population per \nhealth facility, payment system/methods, utilization of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_235"
+    }
+  },
+  {
+    "content": "care, access to care, improper co -ordination of donor \nfunds, maternal mortality, infant mortality, health      \nfinancing, poor sanitation and hygiene, incessant         \ndoctors strike, disease surveillance, smoking of tobacco, \nbrain drain, rapid urbanization, non -communicable",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_236"
+    }
+  },
+  {
+    "content": "diseases, alcohol abuse, environment degradation, road \ntraffic injuries etcetera.5 \n \nThe top 10 causes of death in Nigeria are as follows:3 \n \n Malaria (20%) \n Lower Respiratory Infection (19%) \n HIV/AIDS (9%) \n Diarrheal Diseases (5%) \n Road Injuries (5%)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_237"
+    }
+  },
+  {
+    "content": " Diarrheal Diseases (5%) \n Road Injuries (5%) \n Protein Energy Malnutrition (4%) \n Cancer (3%) \n Meningitis (3%) \n Stroke (3%) \n Tuberculosis (2%) \n \nPublic health Issues \nGlobally about 58 million people died in the year 2005, \nhowever more than 10 million (about 18.8 percent) were",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_238"
+    }
+  },
+  {
+    "content": "from the WHO African Region.16 More than three-fifths \n(64 percent) of the death that occurred in the region \nresulted from HIV/AIDS (19%), lower respiratory     \ninfections (10%), malaria (8%), diarrhoeal diseases \n(7%), cerebrovascular disease (4%), ischaemic heart",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_239"
+    }
+  },
+  {
+    "content": "disease (3%), tuberculosis (3%), measles (3%), low \n8 \n \nSouth East Asia Journal of Public Health 2017;7(1):6-11  \nbirth weight (2%), birth asphyxia and birth trauma \n(2%) and maternal conditions (2%). Nevertheless the \neffective public health interventions that could have",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_240"
+    }
+  },
+  {
+    "content": "prevented most of deaths exist, but coverage is low \ndue to weak and under -resourced health systems. \nSome of the weaknesses can be attributed to          \nchallenges related to leadership and governance; \nhealth workforce; medical products, vaccines and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_241"
+    }
+  },
+  {
+    "content": "health workforce; medical products, vaccines and \ntechnologies; information; financing; and services \ndelivery.17 \n \nIn Nigeria communicable and infectious diseases are \nthe major health problem. 3 Nigeria has slowly       \nentered the era of ‘disease of the affluent ” Diseases",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_242"
+    }
+  },
+  {
+    "content": "like Hypertension, Cancer, Obesity etc. Most of the \nNigerians (young and old) die of different             \npreventable diseases such as HIV/AIDS, tuberculo-\nsis, malaria, vaccine preventable disease of         \nchildhood, diarrheal, acute respiratory infections,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_243"
+    }
+  },
+  {
+    "content": "maternal and neonatal conditions due to inadequate \ninvestment in preventive services.3,15 \n \nA country with a largely unhealthy population cannot \nprogress economically, increase her Gross Domestic \nProduct per capita nor experience economic",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_244"
+    }
+  },
+  {
+    "content": "development which is measured primarily by        \neconomic growth. Nigerians young and old die of \ndifferent preventable diseases such as HIV/AIDS, \ntuberculosis, malaria, vaccine preventable disease of \nchildhood, diarrheal, acute respiratory infections,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_245"
+    }
+  },
+  {
+    "content": "maternal and neonatal conditions due to inadequate \ninvestment in preventive services. The direct and \nindirect cost of illness have also continued to          \npauperize most of the citizens and this affect         \neconomic growth as well as development. The sooner",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_246"
+    }
+  },
+  {
+    "content": "governments begin to improve investment on health \nof the people, the better. African countries like      \nLiberia, Malawi, Burkina Faso, Djibouti, Botswana \nand Rwanda that are poor than Nigeria have met the \ntarget of the Abuja Declaration of 2001 in which all",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_247"
+    }
+  },
+  {
+    "content": "African Health Ministers agreed upon a 15%          \nbudgetary allocation to health.15 \n \nMalaria \nMalaria remains the foremost killer disease in      \nNigeria.18 It has the highest burden of disease in    \nNigeria with an estimated 300,000 children dying of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_248"
+    }
+  },
+  {
+    "content": "malaria each year. It accounts for over 25% of infant \nmortality (children under aged one), 30% of child-\nhood mortality (children under five), and 11% of \nmaternal mortality. At least 50% of the population \nhas at least one episode of malaria annually, while",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_249"
+    }
+  },
+  {
+    "content": "children aged less than 5 years have 2 to 4 attacks \nannually.19 Malaria is mostly severe among pregnant \nwomen and children less than 5 years of age, due to \ntheir relatively lower levels of immunity. To address \nthe importance of both malaria treatment and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_250"
+    }
+  },
+  {
+    "content": "prevention, the Society for Family Health (SFH)    \nmalaria programming centers on Pre -Packaged      \nTherapy (PPT) and Long Lasting Insecticide Treated \nNets (LLINs). Recently, the Federal Ministry of \nHealth has implemented the new treatment policy on",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_251"
+    }
+  },
+  {
+    "content": "malaria which includes the use of Artemisinine-based \nCombination Therapy (ACT) as the new first line \ndrug for the treatment of uncomplicated malaria. 20 A \nnew brand of ACT for Children KidACT was         \ndeveloped and launched in 2008. The brand is",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_252"
+    }
+  },
+  {
+    "content": "heavily subsidized for affordability to poor and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 2,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_253"
+    }
+  },
+  {
+    "content": "Muhammad et al.   Public health problems in Nigeria  \nSouth East Asia Journal of Public Health 2017;7(1):6-11 \nvulnerable Nigerians who bear the brunt of malaria. \nLike other NGOs, SFH is promoting the government \npolicy and in addition distributes PermaNet which is a",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_254"
+    }
+  },
+  {
+    "content": "long-lasting insecticide -treated net. 19,20 The nets are \ninexpensive and distribution is an easy way of          \npreventing malaria and possibly other vector -borne    \ndiseases from burdening the health and economic well -\nbeing of Nigerians. \n \nHIV/AIDS",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_255"
+    }
+  },
+  {
+    "content": "being of Nigerians. \n \nHIV/AIDS  \nNigeria has 2.9 million people living with HIV/AIDS, \nthe largest number in the world after India and South \nAfrica. The HIV/AIDS pandemic, which has already \nleft at least 930,000 children orphaned, and the high",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_256"
+    }
+  },
+  {
+    "content": "rates of maternal death and disability, are outstanding \npublic health issues in Nigeria. 21 A high incidence of \nunsafe abortion is driven by legal restrictions and social \nstigma, while an extremely low rate of contraceptive use \ncontributes to an estimated 1.4 million unintended",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_257"
+    }
+  },
+  {
+    "content": "pregnancies each year.15   \n \nIn response to the growing HIV/AIDS pandemic       \ntreatment, USAID/Nigeria provides antiretroviral drugs \nand services to eligible patients, as well as laboratory \nsupport for the diagnosis and monitoring of HIV -",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_258"
+    }
+  },
+  {
+    "content": "support for the diagnosis and monitoring of HIV -\npositive patients.  The treatment program features     \nreduced target costs, cost -leveraging, and health care \nworker training by all implementing partners to         \nharmonize and standardize treatment services. This",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_259"
+    }
+  },
+  {
+    "content": "program provides much -needed drugs to many          \nNigerians with HIV but can nowhere near address the \ngrowing HIV/AIDS infection rate.  The Nigerian       \ngovernment has set a 2010 goal of providing universal \naccess to HIV prevention, care, and treatment. To this",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_260"
+    }
+  },
+  {
+    "content": "end, it has implemented a number of strategies to scale \nup HIV services, including a national counseling and \ntesting program and increased collaboration with       \nexternal donors and non -governmental                      \norganizations.21,22 \n \nReproductive health and child survival",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_261"
+    }
+  },
+  {
+    "content": "Reproductive health and child survival \nDespite considerable gains in the past decade, Nigeria ’s \nreproductive health indicators are still very poor.      \nCountry-wide, the total fertility rate is 5.7 children per \nmother, with a contraceptive prevalence rate of less than",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_262"
+    }
+  },
+  {
+    "content": "10%.15 Furthermore, these statistics mask wide regional \nvariations, for example, the total fertility rate in the \nnorthwestern region is as high as 7.3, with a               \ncontraceptive prevalence rate of 3%. 23 Lack of sexual \nhealth information and services make young people",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_263"
+    }
+  },
+  {
+    "content": "vulnerable to sexually transmitted infections (STIs) and \nunintended pregnancy. Nevertheless, Nigerian           \ngovernment both at Federal and State is working in     \ncollaboration with many organizations to improve      \nadolescent reproductive and sexual health through",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_264"
+    }
+  },
+  {
+    "content": "advocacy and prevention programming. \n \nChild survival in Nigeria is threatened by nutritional \ndeficiencies and illnesses, particularly malaria,           \ndiarrhoeal diseases, acute respiratory infections (ARI), \nand vaccine preventable diseases (VPD), which account",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_265"
+    }
+  },
+  {
+    "content": "for the majority of morbidity and mortality in child-\nhood.15, 24 Other threats include high maternal morbidity \nand mortality.  Regarding child health, the country has \nadopted and implemented to a certain extent a number \nof major global initiatives affecting children, such as the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_266"
+    }
+  },
+  {
+    "content": "Safe Motherhood Initiative and its follow -up Making \nPregnancy Safer, Baby -Friendly Hospital Initiative \n(BFHI), and Integrated Management of Childhood    \nIllness (IMCI). Others are Roll Back Malaria Initiative \n(RBM), Elimination of Iodine a Dependent Diabetes,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_267"
+    }
+  },
+  {
+    "content": "Vitamin A Deficiency Control, and National Program \non Immunization (NPI), the latter with a special        \nemphasis on the eradication of poliomyelitis. Yet the \nimpact of interventions in child survival to a large     \nextent have not achieved as much as would have been",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_268"
+    }
+  },
+  {
+    "content": "expected despite the amount of funds and resources that \nhave been put into these programs. For instance, Nigeria \nis still one the three countries of the world harboring \nand spreading the three serotypes of wild polio viruses \nto different parts of the world despite ongoing intensive",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_269"
+    }
+  },
+  {
+    "content": "immunization activities because of non -compliancy to \npolio vaccination. 25 It may be recalled that in 2003, \nthere was a political propaganda that Polio vaccine     \ncontained infertility agents, spread HIV and was        \nreported generally unsafe. 26 Although the safety of the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_270"
+    }
+  },
+  {
+    "content": "polio vaccine was later proven beyond all reasonable \ndoubt globally, and frantic efforts have been made to \ndisabuse the minds of the people, pockets of parents still \nrefuse their wards/children to receive the vaccine.  \n \nThe crude death rate, life expectancy, infant mortality",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_271"
+    }
+  },
+  {
+    "content": "rate, human development index, maternal mortality rate, \nthe proportion of GNP spent on health services are     \ntestaments to this fact, the above indicators do not show \nthat Nigeria is a country that supports the survival of the \nNigerian people in a world where their fellow human",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_272"
+    }
+  },
+  {
+    "content": "beings live long enough due to increased life expectancy \nand proper investment in the health of the people. 5 It is \noften believed that only wealthy nations can possibly \nincrease life expectancy and reduce infant and maternal \nmortality rate as recorded in countries like United",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_273"
+    }
+  },
+  {
+    "content": "Kingdom, Germany, Italy, Spain, France, Japan,        \nCanada, Australia, Sweden, Chile, USA etcetera but \ndonor funds to developing countries which is expected \nto bridge the financing gap have not been properly    \nutilized for the improvement of the citizen ’s health    \nstatus.5",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_274"
+    }
+  },
+  {
+    "content": "status.5  \n \nTuberculosis control  \nNigeria is ranked 4th among the 22 worst affected     \ncountries in the world and the first in Africa. 27 As such, \nabout 460,000 new TB cases occur yearly in Nigeria. 22 \nLagos state carries 8.4% of Nigeria TB burden and",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_275"
+    }
+  },
+  {
+    "content": "consistently has been responsible for about 11% of the \ncases of TB registered in Nigeria. The State program is \nimplementing the internationally recommended STOP \nTB Strategy.22 \n \nUSAID/Nigeria implements its HIV/AIDS and TB     \nactivities under a comprehensive approach with other",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_276"
+    }
+  },
+  {
+    "content": "United States Government agencies, including the     \nCenters for Disease Control and Prevention and the    \nDepartment of Defense, which are all working as part of \nthe President Emergency Plan for AIDS Relief \n(PEPFAR).4 Activities are designed to reduce TB",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_277"
+    }
+  },
+  {
+    "content": "transmission, improve diagnosis, and manage            \nmulti-drug-resistant-TB cases, especially among HIV \npositive patients.   \n \nRoutine HIV testing is also a priority in USAID TB \nDirectly Observed Treatment Short-Course. The control \nand prevention of Tuberculosis in contemporary times",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_278"
+    }
+  },
+  {
+    "content": "has many faces and challenges. These, among others, \ninclude the impact of HIV/AIDS and the emergence of \nmulti-drug resistant tuberculosis (MDR -TB). The HIV/\n9",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 3,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_279"
+    }
+  },
+  {
+    "content": "Muhammad et al.   Public health problems in Nigeria  \nSouth East Asia Journal of Public Health 2017;7(1):6-11 \nAIDS pandemic is not only fueling the burden of       \ntuberculosis but also poses great challenge to its         \ndiagnosis and management. The recorded HIV",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_280"
+    }
+  },
+  {
+    "content": "prevalence among TB cases in Nigeria is estimated at \n27%.15 \n \nLeprosy control Program \nIt has been estimated that about 5,000 leprosy cases \noccur yearly.22 By the 1940s and 50s Nigeria was ahead \nof many countries in its leprosy control activities.  There",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_281"
+    }
+  },
+  {
+    "content": "has been significant reduction in the registered        \nprevalence of leprosy with some evidence of reduced \ntransmission. This has been attributed to increased and \nsustained control activities resulting in the elimination \nof the disease as a public health problem at national",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_282"
+    }
+  },
+  {
+    "content": "level. However, there are still endemic pockets at the \nsub-national level.  \nAn issue of concern in leprosy control remains the    \nrehabilitation of a large number of ex -leprosy patients \nwho have been cured of leprosy but have disabilities. In",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_283"
+    }
+  },
+  {
+    "content": "collaboration with many NGOs, effective, integrated \nleprosy control programs in which both female and male \npatients are identified, diagnosed and treated in the early \nstages of leprosy by the health system are ongoing. \nThese programs also work to prevent and reduce",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_284"
+    }
+  },
+  {
+    "content": "impairments associated with leprosy, and to provide \nappropriate rehabilitation and education and vocational \ntraining opportunities for persons affected by leprosy.28 \nConclusion \nNigeria is currently working towards achieving the   \nMillennium Development Goals. To reach the targets",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_285"
+    }
+  },
+  {
+    "content": "for the reduction of child mortality, which form MDG 4, \nNigeria should reduce under -five deaths per 1,000 live \nbirths to 71, and increase measles immunization to 100 \nper cent by 2015.  \n \nDespite the collaborative efforts of both Nigerian     \nGovernment, Donor Agencies and NGOs to provide an",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_286"
+    }
+  },
+  {
+    "content": "efficient and effective health care delivery in Nigeria, \nconfronting problems render these efforts much less \nthan desired. Some of these problems or challenges     \ninclude both emerging and re-emerging health problems \nsuch as HIV/AIDS pandemic, inadequate payment of",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_287"
+    }
+  },
+  {
+    "content": "such as HIV/AIDS pandemic, inadequate payment of \nhealth workers salaries, poor quality of care, inequitable \nhealth care services, brain drain, and irrational          \nappointment of health workers among others. A new \nglobal burden has revealed that malaria and HIV are",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_288"
+    }
+  },
+  {
+    "content": "still leading cause of death in Nigeria killing more than \n190 thousand and 130 thousand people respectively.  \n \nRecommendations \nThe study put forward following recommendations: \n Government should improve its plan on how to \ntackle the major public health issues in the",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_289"
+    }
+  },
+  {
+    "content": "tackle the major public health issues in the     \ncountry (i.e. HIV/AIDs, Tuberculosis and      \nMalaria remain major health issues in Nigeria) \nand it also try more on the incidence of drug   \nresistant TB and extremely drug resistant TB in \norder to tackle them.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_290"
+    }
+  },
+  {
+    "content": "order to tackle them.  \n Efforts on the vertical transmission of HIV     \ninfection should be double to ensure the          \nreduction of mother-to-child transmission.  \n Government should be committed to the new \nGlobal Fund initiative in combating HIV/AIDS,",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_291"
+    }
+  },
+  {
+    "content": "Global Fund initiative in combating HIV/AIDS, \nTB and malaria and it has to do everything      \npossible to ensure the reduction of the three     \nidentified diseases in line with the Millennium \nDevelopment Goals (MDGs) targets in 2015. \n \nAcknowledgments",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_292"
+    }
+  },
+  {
+    "content": "Acknowledgments \nWe thank all the staff of Public Health Department    \nDaffodil International University, Dhaka Bangladesh for \ntheir support and advices. \n \nCompeting interests \nThe authors declare that they have no competing       \ninterests. \n \nReferences",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_293"
+    }
+  },
+  {
+    "content": "interests. \n \nReferences \n1. Peter H. Nigeria Giant of Africa. London :   \nSwallow Editions, 1987. \n2. The CIA World Fact Book 2014. Skyhorse     \nPublishing, Inc. 2013.  \n3. Centre for Disease Control and Prevention \n(CDC), Nigeria report 2013. https://\nwww.cdc.gov/globalhealth/countries/nigeria/",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_294"
+    }
+  },
+  {
+    "content": "www.cdc.gov/globalhealth/countries/nigeria/\nwhy/default.htm (accessed 17 June 2016). \n4. World Health Organization. World Health      \nStatistics Report-2011. Geneva: WHO 2011. \n5. Bolaji SA. Addressing the Public Health        \nChallenges Nigeria Faces. https://",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_295"
+    }
+  },
+  {
+    "content": "Challenges Nigeria Faces. https://\nwww.inigerian.com/addressing-the-public-health\n-challenges-nigeria-faces/ (accessed 20 May, \n2016) \n6. World Health Organization. Global Tuberculosis \nReport-2009. Geneva: WHO 2009. \n7. Public Health Foundation of Nigeria. http://",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_296"
+    }
+  },
+  {
+    "content": "7. Public Health Foundation of Nigeria. http://\nwww.phfn.org/DynamicPage.aspx?pageid=23 \n(accessed 2 June 2016). \n8. United Nations Development Programme.      \nNigerian Human Development Report -2004. \nNew York:UNDP, 2004. \n9. United Nations Development Programme. What",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_297"
+    }
+  },
+  {
+    "content": "9. United Nations Development Programme. What \nWill It Take to Achieve the Millennium         \nDevelopment Goals? – An International         \nAssessment. New York: UNDP, 2010.  \n10. United Nation Programme on HIV and AIDS \n(UNAIDS). Country Progress Report. Nigeria: \nUNDP 2010.",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_298"
+    }
+  },
+  {
+    "content": "UNDP 2010.  \n11. Bolaji SA. The national public health agency \nalternative; National daily newspaper, 2012. \nhttp://old.nationaldailyng.com/editorial/\ncomments-and-issues/4686-the-national-public-\nhealth-agency-alternative (accessed June 2016). \n12. Elvis EI, Akinola AF, Ikeoluwapo OA. An",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_299"
+    }
+  },
+  {
+    "content": "12. Elvis EI, Akinola AF, Ikeoluwapo OA. An    \noverview of disease surveillance and notification \nsystem in Nigeria and the roles of clinicians in \ndisease outbreak prevention and control. Niger \nMed J 2015;56(3):161-8.  \n13. World Health Organization. Cholera Annual",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_300"
+    }
+  },
+  {
+    "content": "13. World Health Organization. Cholera Annual \nReport 2011: Weekly Epidemiological Record, \nVolume 87:289-304, Geneva:WHO, 2012. \n10",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 4,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_301"
+    }
+  },
+  {
+    "content": "Muhammad et al.   Public health problems in Nigeria  \nSouth East Asia Journal of Public Health 2017;7(1):6-11 \n14. Arksey H, O’Malley L. Scoping studies: towards \na methodological framework. Int J Soc Res \nMethodol 2005; 8(1):19-32. \n15. Baba M, Omotara B. Nigeria Public Health -",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_302"
+    }
+  },
+  {
+    "content": "15. Baba M, Omotara B. Nigeria Public Health -\nGains and Challenges. College of Medical       \nSciences, University of Maiduguri, Nigeria; \nPEAH 2012. http://www.peah.it/2012/09/\nnigerias-public-health-gains-and-challenges/ \n(accessed June 2017). \n16. World Health Organization (WHO). Health",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_303"
+    }
+  },
+  {
+    "content": "16. World Health Organization (WHO). Health     \nStatistics and Information Systems: Global \nHealth Estimates. http://www.who.int/healthinfo/\nbod/en/index.html (accessed June 2017). \n17. World Health Organization.  Strengthening \nHealth Systems to Improve Health Outcomes:",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_304"
+    }
+  },
+  {
+    "content": "Health Systems to Improve Health Outcomes: \nWHO's framework for action. Geneva: \nWHO, 2007.  \n18. Federal Ministry of Health Nigeria (FMOH) and \nPopulation Services International (PSI) 2002. \nhttp://www.psi.org/nigeria (accessed June 2017). \n19. Nigeria Demographic and Health Survey",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_305"
+    }
+  },
+  {
+    "content": "19. Nigeria Demographic and Health Survey \n(NDHS). Demographic and Health Survey       \nReport-2008, Nigeria: NDHS 2009. \n20. Society for Family Health Nigeria (SFH). Malar-\nia Prevention and Treatment. http://\nwww.sfhnigeria.org/?p=708 (accessed June \n2017).",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_306"
+    }
+  },
+  {
+    "content": "www.sfhnigeria.org/?p=708 (accessed June \n2017). \n21. Planned Parenthood. Nigeria country program \n2012. www.plannedparenthood.org/about-us/\nnewsroom.htm (accessed June 2017). \n22. Federal Ministry of Health Nigeria (FMOH) and \nNational Tuberculosis and Leprosy Control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_307"
+    }
+  },
+  {
+    "content": "National Tuberculosis and Leprosy Control     \nProgramme (NTBLCP). Workers Manual.      \nRevised 5 th Edition. Abuja: Federal Ministry of \nHealth Nigeria, 2010.  \n23. Pathfinder International Organization. What We \nDo in Nigeria. http://www.pathfind.org/\ncountries/nigeria/ (accessed June 2017)",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_308"
+    }
+  },
+  {
+    "content": "countries/nigeria/ (accessed June 2017) \n24. Olanrewaju O, Odubunmi AS. Demand for Child \nHealthcare in Nigeria. Glob J Health Sci 2012 \nNov; 4(6): 129-40. \n25. United Nations International Children's         \nEmergency Fund (UNICEF). Global Polio Eradi-",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_309"
+    }
+  },
+  {
+    "content": "Emergency Fund (UNICEF). Global Polio Eradi-\ncation Initiative (GPEI) Status: Endemic https://\nwww.unicef.org/immunization/polio/files/\nUNICEF_GPEI_country_profile_NIG_3May201\n2.pdf (Accessed June 2017). \n26. Guerrera M. Finish Polio: Evolutionary medicine",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_310"
+    }
+  },
+  {
+    "content": "principles and the eradication of polio in          \nevolutionary medicine, Central Connecticut State     \nUniversity. Topics in Biology (Bio 490/ 540), \n2007. \n27. Dim CC, Dim NR, Morkve O. Tuberculosis: a \nreview of current concepts and control",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_311"
+    }
+  },
+  {
+    "content": "review of current concepts and control           \nProgramme in Nigeria. Niger J Med  2011; 20\n(2):200-6. \n28. Canadian International Development Agency. \nProject Browser. Project profile for Leprosy \nControl project in Sokoto State. Grand Rapids, \nMichigan: CIDA, 2012. \n11",
+    "metadata": {
+      "source": "04_data_ingestion_document_processing\\data\\nigeria_health_diseases_and_prevention.pdf",
+      "page": 5,
+      "file_name": "nigeria_health_diseases_and_prevention.pdf",
+      "doc_type": "pdf",
+      "language": "English",
+      "chunk_id": "nigeria_health_diseases_and_prevention.pdf_312"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "content": "Agriculture in Nigeria: An Overview\n\nAgriculture is one of the most important sectors of the Nigerian economy. It employs more than a third of the labour force and contributes significantly to the country's GDP. In rural areas, agriculture is the main source of income and food security.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_001"
+    }
+  },
+  {
+    "content": "Major Crops Grown in Nigeria\n\nNigeria grows a wide variety of crops due to its diverse climate and ecology.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_002"
+    }
+  },
+  {
+    "content": "- Cassava: Nigeria is one of the largest producers of cassava in the world. It is processed into garri, fufu, and starch.\n- Yam: Yam is a major staple food, especially in the middle belt and southern regions.\n- Maize: Maize is grown widely and used for both human food and animal feed.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_003"
+    }
+  },
+  {
+    "content": "- Rice: Local rice production has increased in recent years to meet national demand.\n- Sorghum and Millet: These grains are common in the northern states where rainfall is lower.\n- Beans: Beans are an important source of protein for many households.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_004"
+    }
+  },
+  {
+    "content": "Livestock and Fisheries\n\nLivestock farming is common across Nigeria. Cattle, goats, sheep, and poultry are raised in many communities. In the north, cattle rearing is a major activity. In the south, poultry and fish farming are growing rapidly.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_005"
+    }
+  },
+  {
+    "content": "Fisheries and aquaculture provide employment and protein for many families. Catfish and tilapia are commonly farmed in ponds and tanks.\n\nCommon Crop Diseases and Control",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_006"
+    }
+  },
+  {
+    "content": "Common Crop Diseases and Control\n\n1. Cassava Mosaic Disease\n   Affected crop: Cassava\n   Symptoms: Yellowing and mottling of leaves, stunted growth, reduced yield.\n   Control: Use disease-free cuttings, plant resistant varieties, and remove infected plants.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_007"
+    }
+  },
+  {
+    "content": "2. Maize Smut\n   Affected crop: Maize\n   Symptoms: Grey or black galls on ears, stalks, and leaves.\n   Control: Remove infected plants, rotate crops, and plant resistant hybrids.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_008"
+    }
+  },
+  {
+    "content": "3. Rice Blast\n   Affected crop: Rice\n   Symptoms: Spindle-shaped lesions on leaves and panicle damage.\n   Control: Use resistant varieties and apply recommended fungicides.\n\nCommon Livestock Diseases and Control",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_009"
+    }
+  },
+  {
+    "content": "Common Livestock Diseases and Control\n\n1. Newcastle Disease\n   Affected animal: Poultry\n   Symptoms: Respiratory distress, greenish diarrhoea, nervous signs.\n   Control: Vaccinate birds regularly and maintain hygiene.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_010"
+    }
+  },
+  {
+    "content": "2. Foot and Mouth Disease\n   Affected animal: Cattle, sheep, goats, pigs\n   Symptoms: Blisters in mouth and hooves, fever, lameness.\n   Control: Vaccination and movement control.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_011"
+    }
+  },
+  {
+    "content": "3. Mastitis\n   Affected animal: Dairy cattle and goats\n   Symptoms: Swollen udder, abnormal milk, fever.\n   Control: Good milking hygiene and antibiotic treatment under veterinary guidance.\n\nChallenges Facing Agriculture in Nigeria",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_012"
+    }
+  },
+  {
+    "content": "- Poor rural infrastructure such as roads and storage facilities.\n- Limited access to credit and modern equipment.\n- Climate change causing drought and unpredictable rainfall.\n- Post-harvest losses due to inadequate processing and storage.\n- Land tenure issues and urbanisation reducing farmland.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_013"
+    }
+  },
+  {
+    "content": "Conclusion\n\nAgriculture remains a key driver of economic growth and food security in Nigeria. With sustained investment, innovation, and support for smallholder farmers, the sector has the potential to reduce poverty and create millions of jobs.",
+    "metadata": {
+      "source": "../../data/agriculture.txt",
+      "doc_type": "text",
+      "language": "English",
+      "chunk_id": "agriculture_txt_014"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+# ─── Core LangChain 
+langchain==0.2.14
+langchain-openai==0.1.22
+langchain-community==0.2.12
+langchain-anthropic
+langchain-google-genai
+
+pypdf
+jq
+beautifulsoup4
+lxml
+
+# ─── LangGraph 
+langgraph==0.2.14
+
+# ─── LangSmith 
+langsmith==0.1.92
+
+# ─── Pydantic (v2) 
+pydantic==2.8.2
+pydantic-settings==2.4.0
+
+# ─── Environment & Config 
+python-dotenv==1.0.1
+
+# ─── Utilities 
+rich==13.7.1
+ipykernel==6.29.4
+jupyterlab==4.2.4
+
+# ─── Vector Stores (Pinned to Windows-stable versions) 
+chromadb==0.5.3
+faiss-cpu==1.8.0
+
+# ─── For streaming / API 
+fastapi==0.112.1
+uvicorn==0.30.6
+
+pandas
