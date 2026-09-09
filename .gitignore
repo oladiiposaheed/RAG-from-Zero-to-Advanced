@@ -34,3 +34,4 @@ Thumbs.db
 logs/
 chroma_db/
 chroma_db_test/
+chroma_db_clean/
