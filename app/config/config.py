@@ -17,8 +17,8 @@ class Config(BaseSettings):
         default=Path('04_data_ingestion_document_processing/data'),
         description='Directory containing input documents'
     )
-    chunk_size: int = Field(default=300, description='Maximum characters per chunk')
-    chunk_overlap: int = Field(default=50, description='Overlap between chunks')
+    chunk_size: int = Field(default=900, description='Maximum characters per chunk')
+    chunk_overlap: int = Field(default=150, description='Overlap between chunks')
     embedding_model: str = Field(default='text-embedding-3-small', description='Embedding model name')
     llm_model: str = Field(default='gpt-4o-mini', description='LLM model name for generation')
     openai_api_key: str = Field(default='', description='OpenAI API key')

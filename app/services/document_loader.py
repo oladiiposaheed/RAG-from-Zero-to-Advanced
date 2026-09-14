@@ -33,6 +33,11 @@ class DocumentLoaderService:
         '.html': 'html'
     }
     
+    EXCLUDED_FILES = {
+        'ecommerce.csv',
+        'ecommerce.json',
+    }
+    
     def __init__(self, data_dir: Path | None = None):
         '''
         Initialize with a data directory.
@@ -99,13 +104,23 @@ class DocumentLoaderService:
             
         all_docs = []
         for file_path in self.data_dir.iterdir():
-            if file_path.is_file():
-                docs = self.load_file(file_path)
-                all_docs.extend(docs)
-                
-        # Log the total number of loaded documents        
-        # logger.info(f'Loaded {len(all_docs)} documents from {self.data_dir}')
+            if not file_path.is_file():
+                continue
+            
+            # Skip files on the exclusion list
+            if file_path.name in self.EXCLUDED_FILES:
+                logger.info(f'Skipping excluded file: {file_path.name}')
+                continue        
+            
+            # Skip files with no extension or unsupported extension
+            ext = file_path.suffix.lower()
+            if ext not in self.SUPPORTED_EXTENSIONS:
+                logger.info(f'Skipping unsupported file: {file_path.name}')
+                continue
         
+            docs = self.load_file(file_path)
+            all_docs.extend(docs)
+            
         return all_docs
     
     

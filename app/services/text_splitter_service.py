@@ -34,7 +34,7 @@ class TextSplitterService:
         self.chunk_overlap = chunk_overlap if chunk_overlap is not None else config.chunk_overlap
         
         # If no separators provided, use default list
-        self.separators = separators or ['\n\n', '\n', '.', ' ', '']
+        self.separators = separators or ['\n\n', '\n', '. ', '? ', '! ']
         
         # Create the splitter object
         self.splitter = RecursiveCharacterTextSplitter(

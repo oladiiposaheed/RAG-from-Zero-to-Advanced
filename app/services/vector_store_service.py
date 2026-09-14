@@ -72,7 +72,13 @@ class VectorStoreService:
             # Define which directory to use
             storage_dir = chroma_storage_dir or self.chroma_storage_dir
             
-            # Create the Chroma vector store from documents
+            storage_path = Path(storage_dir)
+            if storage_path.exists():
+                import shutil
+                shutil.rmtree(storage_path)
+                logger.info(f'Removed existing vector store at {storage_dir}')
+            
+            # Create fresh chroma vector store from documents
             self.vectorestore = Chroma.from_documents(
                 documents=documents,
                 embedding=self.embeddings,
