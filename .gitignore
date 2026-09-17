@@ -35,3 +35,5 @@ logs/
 chroma_db/
 chroma_db_test/
 chroma_db_clean/
+chroma_db_domain/
+chat_history.db
