@@ -1,0 +1,590 @@
+[
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "disease of public health importance",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Child survival",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "Nutritional deficiencies and illnesses",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Killer disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Children",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Infant mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Childhood mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Maternal mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "300,000 children dying each year",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "over 25% of infant mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "30% of childhood mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "11% of maternal mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "50% of the population",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Killer disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "under 5 mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "childhood mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "maternal mortality",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "mosquito bites",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "People",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "Plasmodium parasites",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "TRANSMITTED_BY",
+    "object": "Anopheles mosquitoes",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Fever",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Chills",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Headache",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Insecticide-treated bed nets",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Antimalarial medications",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Cassava bacterial blight",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Cassava bacterial blight",
+    "relation": "CAUSED_BY",
+    "object": "Xanthomonas manihotis",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "Infection by Plasmodium parasites",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "TRANSMITTED_BY",
+    "object": "Anopheles mosquitoes",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Human health",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Fever",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Chills",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Sweats",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Headaches",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Nausea",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Insecticide-treated nets",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Antimalarial medications",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Roll Back Malaria Initiative",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Downy mildew",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Downy mildew",
+    "relation": "CAUSED_BY",
+    "object": "Fungi",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Downy mildew",
+    "relation": "HAS_PART",
+    "object": "Peronosclerospora spp",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Nigeria",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "communicable and infectious diseases",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "cause of death",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "KidACT",
+    "relation": "CONTROL",
+    "object": "Malaria",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Leaf blight",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Leaf blight",
+    "relation": "CAUSED_BY",
+    "object": "Fungi",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Fungi",
+    "relation": "HAS_PART",
+    "object": "Helminthosporium spp",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Necrosis",
+    "relation": "HAS_SYMPTOM",
+    "object": "dead patches or spots on leaves",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Necrosis",
+    "relation": "AFFECTS",
+    "object": "leaves",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Necrosis",
+    "relation": "CAUSED_BY",
+    "object": "fungi",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Necrosis",
+    "relation": "CAUSED_BY",
+    "object": "bacteria",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Necrosis",
+    "relation": "CAUSED_BY",
+    "object": "viruses",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "children under five",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "pregnant women",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "severe episodes",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Pre -Packaged Therapy (PPT)",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Long Lasting Insecticide Treated Nets (LLINs)",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Artemisinine-based Combination Therapy (ACT)",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "more than 190 thousand people",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "major health issue in Nigeria",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "Infectious Disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CAUSED_BY",
+    "object": "Vector-borne pathogens",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Human health",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Fever",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Chills",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "HAS_SYMPTOM",
+    "object": "Headache",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Insecticide-treated nets",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "Antimalarial drugs",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "vulnerable Nigerians",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "PermaNet",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "PermaNet",
+    "relation": "HAS_PART",
+    "object": "long-lasting insecticide-treated net",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "PermaNet",
+    "relation": "TRANSMITTED_BY",
+    "object": "preventing malaria",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "preventable disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Nigerians",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "CONTROL",
+    "object": "preventive services",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "AFFECTS",
+    "object": "Nigerians",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Malaria",
+    "relation": "IS_A",
+    "object": "communicable and infectious disease",
+    "source_file": "nigeria_health_diseases_and_prevention.pdf",
+    "domain": "health"
+  },
+  {
+    "subject": "Cassava Mosaic Virus",
+    "relation": "IS_A",
+    "object": "Disease",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  },
+  {
+    "subject": "Cassava Mosaic Virus",
+    "relation": "CAUSED_BY",
+    "object": "white fly (Bemisia tabaci)",
+    "source_file": "crop_disease.pdf",
+    "domain": "crops"
+  }
+]
