@@ -37,3 +37,7 @@ chroma_db_test/
 chroma_db_clean/
 chroma_db_domain/
 chat_history.db
+
+10b_graph_rag/data/*.json
+10b_graph_rag/data/*.graphml
+10b_graph_rag/data/*.gml
