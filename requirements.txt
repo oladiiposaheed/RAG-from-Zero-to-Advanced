@@ -40,7 +40,7 @@ faiss-cpu==1.8.0
 # ─── For streaming / API 
 fastapi==0.112.1
 uvicorn==0.30.6
+networkx
+grandalf
 
 pandas
-
-networkx
