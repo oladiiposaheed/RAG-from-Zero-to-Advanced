@@ -1,0 +1,41 @@
+[
+    {
+        "query": "When did Nigeria gain independence?"
+    },
+    {
+        "query": "When did Nigeria gain independence?",
+        "retrieved_docs": [
+            "Nigeria gained independence from Britain in 1960.",
+            "The Nigerian Civil War lasted from 1967 to 1970.",
+            "Nigeria is Africa’s biggest oil producer."
+        ],
+        "corrected_docs": null,
+        "answer": null
+    },
+    {
+        "query": "When did Nigeria gain independence?",
+        "retrieved_docs": [
+            "Nigeria gained independence from Britain in 1960.",
+            "The Nigerian Civil War lasted from 1967 to 1970.",
+            "Nigeria is Africa’s biggest oil producer."
+        ],
+        "corrected_docs": [
+            "Nigeria gained independence from Britain in 1960.",
+            "Nigeria is Africa’s biggest oil producer."
+        ],
+        "answer": null
+    },
+    {
+        "query": "When did Nigeria gain independence?",
+        "retrieved_docs": [
+            "Nigeria gained independence from Britain in 1960.",
+            "The Nigerian Civil War lasted from 1967 to 1970.",
+            "Nigeria is Africa’s biggest oil producer."
+        ],
+        "corrected_docs": [
+            "Nigeria gained independence from Britain in 1960.",
+            "Nigeria is Africa’s biggest oil producer."
+        ],
+        "answer": "Nigeria gained independence in 1960."
+    }
+]
