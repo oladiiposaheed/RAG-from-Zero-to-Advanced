@@ -1,4 +1,6 @@
+# ─────────────────────────────────────────────
 # Python
+# ─────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *.so
@@ -7,39 +9,101 @@ __pycache__/
 dist/
 build/
 
+# ─────────────────────────────────────────────
 # Virtual environments
+# ─────────────────────────────────────────────
 rag_env/
 .venv/
 venv/
 env/
 ENV/
 
-# Environment variables
+# ─────────────────────────────────────────────
+# Environment variables — NEVER COMMIT
+# ─────────────────────────────────────────────
 .env
 .env.local
 .env.*.local
+.env.prod
+.env.dev
+.env.backup
 
+# ─────────────────────────────────────────────
+# Django
+# ─────────────────────────────────────────────
+db.sqlite3
+*.sqlite3
+*.log
+staticfiles/
+media/
+local_settings.py
+
+# ─────────────────────────────────────────────
 # Jupyter
+# ─────────────────────────────────────────────
 .ipynb_checkpoints/
 
+# ─────────────────────────────────────────────
 # IDE
+# ─────────────────────────────────────────────
 .vscode/
 .idea/
 *.swp
+*.swo
 
+# ─────────────────────────────────────────────
 # OS
+# ─────────────────────────────────────────────
 .DS_Store
 Thumbs.db
 
-logs/
+# ─────────────────────────────────────────────
+# Chroma / Vector stores (big, reproducible)
+# ─────────────────────────────────────────────
 chroma_db/
 chroma_db_test/
 chroma_db_clean/
 chroma_db_domain/
+chroma_db_terminology/
+
+# ─────────────────────────────────────────────
+# Audio files (big test recordings)
+# ─────────────────────────────────────────────
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+# ─────────────────────────────────────────────
+# Model caches (huge, downloadable)
+# ─────────────────────────────────────────────
+.cache/
+models/
+
+# ─────────────────────────────────────────────
+# Logs and history
+# ─────────────────────────────────────────────
+logs/
+*.log
 chat_history.db
 
+# ─────────────────────────────────────────────
+# GraphRAG data
+# ─────────────────────────────────────────────
 10b_graph_rag/data/*.json
 10b_graph_rag/data/*.graphml
 10b_graph_rag/data/*.gml
 
+# ─────────────────────────────────────────────
+# Misc
+# ─────────────────────────────────────────────
 a.py
+
+
+# Django local data — never commit
+17_django_project/*.json
+17_django_project/*.docx
+17_django_project/~$*
+
+# Translation cache — regenerated
+translation_cache.json

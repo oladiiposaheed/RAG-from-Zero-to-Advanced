@@ -43,4 +43,26 @@ uvicorn==0.30.6
 networkx
 grandalf
 
+# voice ai
+pipecat-ai
+
+# --- Multilingual Translation (NLLB) ---
+transformers==4.56.1
+sentencepiece==0.1.99
+ctranslate2>=4.7.0
+protobuf>=3.20.0
+
+pytest
+ipytest
+
+#Encoding for file uploads
+python-multipart
+
+sounddevice 
+soundfile
+
+silero-vad
+yarngpt-sdk
+# 
+faster-whisper
 pandas
